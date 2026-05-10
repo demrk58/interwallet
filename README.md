@@ -5,11 +5,14 @@
 >
 > [**Keep Android Open**](https://keepandroidopen.org/).
 
-# <img alt="Logo" src="app/src/main/icon-source.svg" width="40" height="40"/> FossWallet
+# <img alt="Logo" src="app/src/main/icon-source.svg" width="40" height="40"/> Interwallet
 
-FossWallet is a free and open source (FOSS) .pkpass application.
+Interwallet is a free and open source (FOSS) .pkpass application developed by **Aksis Development**.
+
+This project is a fork and continuation of the original [FossWallet](https://github.com/SeineEloquenz/fosswallet) created by [SeineEloquenz](https://github.com/SeineEloquenz). We are grateful for the foundation and excellent work that went into the original project.
+
 Inspired by the venerable [PassAndroid](https://github.com/ligi/PassAndroid) app,
-I tried to recreate the necessary functionality in Material Design 3 and with modern
+Interwallet recreates the necessary functionality in Material Design 3 and with modern
 technologies.
 
 Features (non-exhaustive):
@@ -27,15 +30,15 @@ Features (non-exhaustive):
 * Gadgetbridge integration to get your passes on your watch
 
 ### Gadgetbridge integration
-FossWallet integrates with Gadgetbridge, so that you can use your passes barcodes on supported gadgets.
+Interwallet integrates with Gadgetbridge, so that you can use your passes barcodes on supported gadgets.
 To sync your passes to a gadget, select it in the gadgetbridge device list, press the cogwheel to
 get to device settings, and go to the "loyalty cards"-menu. There you'll find options to sync passes.
 
 ## Installation
 
-[<img src="https://raw.githubusercontent.com/SeineEloquenz/fosswallet/refs/heads/main/.github/badges/github.png"
+[<img src="https://raw.githubusercontent.com/demrk58/interwallet/refs/heads/main/.github/badges/github.png"
 alt="Get it on GitHub"
-height="80">](https://github.com/SeineEloquenz/fosswallet/releases)
+height="80">](https://github.com/demrk58/interwallet/releases)
 [<img src="https://raw.githubusercontent.com/SeineEloquenz/fosswallet/refs/heads/main/.github/badges/fdroid.png"
 alt="Get it on F-Droid"
 height="80">](https://f-droid.org/packages/nz.eloque.foss_wallet/)
@@ -44,7 +47,7 @@ alt="Get it on Google Play"
 height="80">](https://play.google.com/store/apps/details?id=nz.eloque.foss_wallet)
 
 ### Verification
-To verify the authenticity of a FossWallet APK, use the following SHA-256 fingerprint:
+To verify the authenticity of an Interwallet APK, use the following SHA-256 fingerprint:
 
 
 `BF:8A:F6:D8:9E:55:95:D9:5F:4D:22:9E:C0:FD:97:1A:3C:75:2F:DB:AB:E8:33:77:23:0E:F9:2C:70:44:43:05`
@@ -54,9 +57,14 @@ To verify the authenticity of a FossWallet APK, use the following SHA-256 finger
 > Prefer using builds from GitHub or F-Droid if possible.
 
 ## Translations
-FossWallet can be translated via [Weblate](https://hosted.weblate.org/projects/fosswallet/app/).
+Interwallet can be translated via [Weblate](https://hosted.weblate.org/projects/fosswallet/app/).
 
 [![Translation status](https://hosted.weblate.org/widget/fosswallet/app/multi-auto.svg)](https://hosted.weblate.org/engage/fosswallet/)
+
+## Credits
+
+- **Original Project**: [FossWallet](https://github.com/SeineEloquenz/fosswallet) by [SeineEloquenz](https://github.com/SeineEloquenz)
+- **Current Development**: Interwallet by Aksis Development
 
 ## License
 

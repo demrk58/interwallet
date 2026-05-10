@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">FossWallet</string>
+    <string name="app_name" translatable="false">Interwallet</string>
     <string name="settings">Settings</string>
     <string name="update">Update</string>
     <string name="back">Back</string>
-    <string name="permission_rationale">Without the permission(s), FossWallet does not work correctly</string>
+    <string name="permission_rationale">Without the permission(s), Interwallet does not work correctly</string>
     <string name="request_permissions">Request Permission</string>
     <string name="wallet">Wallet</string>
     <string name="image">Image</string>
@@ -25,7 +25,7 @@
     <string name="webview">Open URL</string>
     <string name="open_from_clipboard">Open from clipboard</string>
     <string name="source_code">Source code</string>
-    <string name="made_with_love">Made with ❤ in Germany</string>
+    <string name="made_with_love">Made with ❤ by Aksis Development</string>
     <string name="to">to</string>
     <string name="license">License</string>
     <string name="update_successful">Successfully updated pass</string>

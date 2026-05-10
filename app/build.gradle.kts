@@ -34,7 +34,7 @@ android {
             keyAlias = System.getenv("SIGNING_KEY_ALIAS")
         }
     }
-    namespace = "nz.eloque.foss_wallet"
+    namespace = "com.aksis.interwallet"
     compileSdk = 36
 
     buildFeatures {
@@ -43,7 +43,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "nz.eloque.foss_wallet"
+        applicationId = "com.aksis.interwallet"
         minSdk = 28
         targetSdk = 36
         versionCode = 107
